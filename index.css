@@ -17,7 +17,7 @@
   
   body {
     background-color: #121214;
-    color: #ffffff;
+    color: #f7dfdf;
   }
   
   .container {
@@ -75,7 +75,7 @@
   fieldset button {
     width: fit-content;
     border: 0;
-    background: #F48F56;
+    background: #ff83f5;
     border-radius: 10px;
     padding: 7px 20px;
   
@@ -84,7 +84,7 @@
   }
   
   fieldset button:hover {
-    background: #f37c37;
+    background: #c725b1;
   }
   
   .lista-participantes {
@@ -131,7 +131,7 @@
   
   tbody td button {
     all: unset;
-    color: #9FF9CC;
+    color: #f99fd0;
   }
   
   tbody td button:hover {
